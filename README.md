@@ -3,8 +3,8 @@
 ### How to connect with me:question::email:
 :star: <code>[Mail](mailto:rajattiwari785@gmail.com)</code>    
 :star: <code>[Twitter](https://twitter.com/rajat_tiwari__)</code>  
-:star: <code>[LinkedIn](https://www.linkedin.com/in/-rajat-tiwari/)</code>  
-:star: <code>[Github](https://github.com/rajattiwariii)</code>  
+:star: <code>[LinkedIn](https://www.linkedin.com/in/rajattiwari01/)</code>  
+:star: <code>[Github](https://github.com/rajattiwari01)</code>  
 ---
 
 ## &#x1f4c8; My GitHub Stats
