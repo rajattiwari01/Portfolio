@@ -9,6 +9,6 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajattiwariii&hide=java,html,css&theme=radical)](https://github.com/rajattiwariii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajattiwari01&hide=java,html,css&theme=radical)](https://github.com/rajattiwari01/github-readme-stats)
 
-[![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajattiwariii&theme=radical)](https://github.com/rajattiwariii/github-readme-stats)
+[![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajattiwari01&theme=radical)](https://github.com/rajattiwari01/github-readme-stats)
